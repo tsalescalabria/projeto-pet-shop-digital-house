@@ -1,0 +1,33 @@
+.rodape{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    padding: 20px 0;
+}
+
+.rcard{
+    padding: 20px;
+    width: 100%;
+}
+
+
+.card-laranja{
+    background-color: #F24726;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.centro {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+  }
+
+  @media (min-width: 769px)  {
+    .rcard{
+        padding: 20px;
+        width: 22%;
+    }
+    
+    
+}
