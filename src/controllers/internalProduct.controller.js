@@ -1,5 +1,5 @@
 module.exports = {
     list: (req, res) => {
-        return res.render('produto-interna');
+        return res.render('internal-product');
     }
 }
